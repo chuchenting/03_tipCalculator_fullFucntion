@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="amountStr">Amount</string>
+    <string name="customStr">Custom%</string>
+    <string name="fifteenPercentStr">15%</string>
+    <string name="customPercentStr">18%</string>
+    <string name="tipStr">Tip</string>
+    <string name="totalStr">Total</string>
+</resources>
